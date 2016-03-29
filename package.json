@@ -43,9 +43,9 @@
   },
   "license": "MIT",
   "dependencies": {
-    "extend": "latest",
-    "soap": "git://github.com/vpulim/node-soap.git#69b9e2a46812e0fc02fbd13469359f131f7f7d5b",
-    "xml2json": "latest",
-    "xmlbuilder": "latest"
+    "node.extend": "^1.1.5",
+    "soap": "^0.9.1",
+    "xml2js": "^0.4.15",
+    "xmlbuilder": "^2.6.4"
   }
 }
